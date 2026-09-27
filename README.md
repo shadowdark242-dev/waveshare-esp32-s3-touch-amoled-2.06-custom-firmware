@@ -9,6 +9,8 @@ This project provides a ready-to-flash firmware build with additional features a
 
 ![Main interface](images/watch-main.jpg)
 
+</details>
+
 ### Watch menu
 
 ![Watch menu](images/watch-menu.jpg)
@@ -21,14 +23,11 @@ This project provides a ready-to-flash firmware build with additional features a
 
 ![Settings](images/watch-settings.jpg)
 
-### Wi-Fi
-
-![Wi-Fi configuration](images/watch-wifi.jpg)
-
 ### Custom wallpaper
 
 ![Custom wallpaper](images/watch-wallpaper.jpg)
 
+</details>
 ## ✨ Features
 
 - Custom smartwatch interface
