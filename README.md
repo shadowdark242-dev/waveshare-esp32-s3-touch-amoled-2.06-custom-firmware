@@ -87,13 +87,13 @@ convert_wallpaper.py
 
 Detailed instructions:
 
-# 🖼️ Wallpaper guide
+  🖼️ Wallpaper guide
 
 ## 📶 Wi-Fi configuration
 
 Wi-Fi can be configured using the procedure described in the documentation.
 
-# 📶 Wi-Fi setup guide
+  📶 Wi-Fi setup guide
 
 ## 📚 Documentation
 Guide	Description
