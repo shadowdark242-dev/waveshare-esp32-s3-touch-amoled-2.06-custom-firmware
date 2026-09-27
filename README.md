@@ -3,6 +3,31 @@
 Custom firmware for the **Waveshare ESP32-S3-Touch-AMOLED-2.06** smartwatch development board.
 
 This project provides a ready-to-flash firmware build with additional features and customization options for the watch.
+## Screenshots
+
+### Main interface
+
+![Main interface](images/watch-main.jpg)
+
+### Watch menu
+
+![Watch menu](images/watch-menu.jpg)
+
+### Applications
+
+![Applications](images/watch-app.jpg)
+
+### Settings
+
+![Settings](images/watch-settings.jpg)
+
+### Wi-Fi
+
+![Wi-Fi configuration](images/watch-wifi.jpg)
+
+### Custom wallpaper
+
+![Custom wallpaper](images/watch-wallpaper.jpg)
 
 ## ✨ Features
 
