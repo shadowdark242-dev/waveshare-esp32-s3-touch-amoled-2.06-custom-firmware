@@ -15,7 +15,7 @@ This project provides a ready-to-flash firmware build with additional features a
 
 ### Applications
 
-![Applications](images/watch-app.jpg)
+![Applications](images/watch-apps.jpg)
 
 ### Settings
 
