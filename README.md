@@ -7,9 +7,8 @@ This project provides a ready-to-flash firmware build with additional features a
 
 <details>
 <summary>Main interface</summary>
-
 ![Main interface](images/watch-main.jpg)
-<details>
+
 
 <details>
 <summary>Show screenshots</summary>
